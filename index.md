@@ -195,7 +195,7 @@ in_menu: true
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-    <p>Que vous soyez électeur ou électrice à Rambouillet, Maurepas, La-Queue-les-Yvelines, Jouars-Pontchartrain, Montfort-L'Amaury… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
+    <p>Que vous soyez électeur ou électrice à Rambouillet, Maurepas, Montfort-L'Amaury ou Saint-Arnoult-en-Yvelines… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
   </div>
 </section>
 
