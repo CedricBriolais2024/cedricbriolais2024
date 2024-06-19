@@ -1,21 +1,21 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
-
 <header>
   <div>
     <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Cédric Briolais !</h1>
   </div>
 </header>
 
 <section class="entete">
   <div>
-    <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Cédric Briolais candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
 
     <div class="buttons">
       <div>
@@ -73,7 +73,7 @@ order: 0
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="Cédric Briolais candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
       </div>
 
       <div>
@@ -195,10 +195,10 @@ order: 0
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-    <p>Que vous soyez électeur ou électrice à Nom de ville 1, Nom de ville 2, Nom de ville 3… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
+    <p>Que vous soyez électeur ou électrice à Rambouillet, Maurepas, La-Queue-les-Yvelines, Jouars-Pontchartrain, Montfort-L'Amaury… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
   </div>
 </section>
 
 <section class="footer">
-    Candidature de la X circonscription de Y.
-</section>
+    Candidature de la 10e circonscription des Yvelines.
+</section> 
