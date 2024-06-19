@@ -77,7 +77,7 @@ in_menu: true
       </div>
 
       <div>
-        <h2>Nom Prénom</h2>
+        <h2>Cédric Briolais</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
         <ul>
@@ -100,11 +100,11 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Nom Prénom suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="Catherine Lasserre suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
       </div>
 
       <div>
-        <h2>Nom Prénom - suppléante</h2>
+        <h2>Catherine Lasserre  - suppléante</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
         <ul>
